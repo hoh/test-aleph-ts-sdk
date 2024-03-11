@@ -1,4 +1,6 @@
 <script setup>
+import { AlephHttpClient } from '@aleph-sdk/client';
+
 defineProps({
   msg: {
     type: String,

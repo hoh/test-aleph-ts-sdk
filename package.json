@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@aleph-sdk/client": "^1.0.0-rc2",
     "vue": "^3.4.21"
   },
   "devDependencies": {
